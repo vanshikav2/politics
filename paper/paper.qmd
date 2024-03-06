@@ -1,9 +1,8 @@
 ---
-title: "My title"
+title: "Logistic Model"
 subtitle: "My subtitle if needed"
 author: 
-  - First author
-  - Another author
+  - Vanshika Vanshika
 thanks: "Code and data are available at: LINK."
 date: today
 date-format: long
